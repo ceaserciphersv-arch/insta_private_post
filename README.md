@@ -82,6 +82,8 @@ This project:
 
 ❌ Does NOT retrieve hidden content
 
+❌ Not all accounts will be visible , only leaking data will be shown.
+
 This project exists solely for educational and cybersecurity awareness purposes.
 
 ---
