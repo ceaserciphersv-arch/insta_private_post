@@ -14,6 +14,70 @@ The application runs locally on your machine and is intended for security awaren
 
 ---
 
+# 🚀 How to Run
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/ceaserciphersv-arch/insta_private_post.git
+cd insta_private_post/Insta_Post_Bypass
+```
+
+## 2. Install Dependencies
+
+```bash
+pip install Flask==2.3.3 flask-cors==4.0.0 requests==2.31.0 beautifulsoup4==4.12.2
+```
+
+## 3. Run the Application
+
+```bash
+python app.py
+```
+
+## 4. Open in Browser
+
+Open your browser and visit:
+
+```text
+http://127.0.0.1:5000
+```
+
+or
+
+```text
+http://localhost:5000
+```
+
+## 📦 Requirements
+
+- Python 3.9+
+- Internet Connection
+
+## ❓ Troubleshooting
+
+### Check Python Version
+
+```bash
+python --version
+```
+
+### Module Not Found Error
+
+```bash
+pip install Flask==2.3.3 flask-cors==4.0.0 requests==2.31.0 beautifulsoup4==4.12.2
+```
+
+### Port Already in Use
+
+If port 5000 is already occupied, stop the conflicting application or modify the port in `app.py`.
+
+---
+
+## ⚠️ Disclaimer
+
+This project is intended for educational and research purposes only. Users are solely responsible for how they use this software. The author does not encourage or support unauthorized access to accounts, content, or services, and assumes no liability for misuse.
+
 ## ✨ Features
 
 - 🌐 Localhost Web Interface
